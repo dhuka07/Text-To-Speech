@@ -1,0 +1,11 @@
+D:\Dhuka\Text_To_Speech\Text_To_Speech\bin\Debug\Text_To_Speech.exe.config
+D:\Dhuka\Text_To_Speech\Text_To_Speech\bin\Debug\Text_To_Speech.exe
+D:\Dhuka\Text_To_Speech\Text_To_Speech\bin\Debug\Text_To_Speech.pdb
+D:\Dhuka\Text_To_Speech\Text_To_Speech\bin\Debug\Text_To_Speech.xml
+D:\Dhuka\Text_To_Speech\Text_To_Speech\obj\Debug\Text_To_Speech.vbprojResolveAssemblyReference.cache
+D:\Dhuka\Text_To_Speech\Text_To_Speech\obj\Debug\Text_To_Speech.Form1.resources
+D:\Dhuka\Text_To_Speech\Text_To_Speech\obj\Debug\Text_To_Speech.Resources.resources
+D:\Dhuka\Text_To_Speech\Text_To_Speech\obj\Debug\Text_To_Speech.vbproj.GenerateResource.Cache
+D:\Dhuka\Text_To_Speech\Text_To_Speech\obj\Debug\Text_To_Speech.exe
+D:\Dhuka\Text_To_Speech\Text_To_Speech\obj\Debug\Text_To_Speech.xml
+D:\Dhuka\Text_To_Speech\Text_To_Speech\obj\Debug\Text_To_Speech.pdb
